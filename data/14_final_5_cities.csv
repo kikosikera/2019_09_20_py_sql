@@ -1,0 +1,6 @@
+city,state,population_growth_rate,number_of_burgalaries_reported,property_crime_rate,housing_construction,mass_markets2,diverse_workers2,well_heeled_affluents2,total
+Chicago,Illinois,0.0,0.0023,0.0016,0.0,0.0149,0.003933,0.005667,0.0852
+New York,New York,0.0,0.0029,0.0026,0.0,0.0146,0.001127,0.001478,0.06811500000000001
+Las Vegas,Nevada,0.0,0.0026,0.0008,0.0,0.0091,0.003965,0.000778,0.051729000000000004
+Bronx,New York,0.0001,0.0011,0.0015,0.0,0.009000000000000001,0.003257,0.002282,0.051717000000000006
+Los Angeles,California,0.0,0.0018,0.0016,0.0,0.009000000000000001,0.001679,0.0020109999999999998,0.04827
